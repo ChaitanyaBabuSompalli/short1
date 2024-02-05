@@ -26,6 +26,7 @@ int main() {
     // Calculate the size of the array
     int n = sizeof(arr) / sizeof(arr[0]);
 
+
     // Call the bubbleSort function to sort the array
     bubbleSort(arr, n);
 
